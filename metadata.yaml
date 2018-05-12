@@ -1,0 +1,33 @@
+_repo: The-Second-Violin_13209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richmond, Grace S. (Grace Smith)
+    alias: Smith, Grace
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '2216'
+    url: http://www.gutenberg.org/2009/agents/2216
+description: What does it take for a family to stick together when the going gets
+  tough? In The Second Violin, the Birch family finds out the hard way when the matriarch
+  falls ill and the teen and young adult children are expected to step in and take
+  over all of the duties of running the household. When another tragedy hits, will
+  this makeshift crew be able to withstand the blow? Spend an afternoon with this
+  inspiring, uplifting read and find out.
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+title: The Second Violin
+url: http://www.gutenberg.org/ebooks/13209
